@@ -11,6 +11,10 @@
     "jasmine-node": ">= 1.14",
     "coffee-script": ">= 1.7"
   },
+  "keywords": [
+    "trie",
+    "autocomplete"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/foodrunner/frtrie.git"
